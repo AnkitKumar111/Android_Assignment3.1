@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:layout_height="74dp"
+        android:layout_width="match_parent"
+        android:id="@+id/txtred"
+        android:background="@color/red"
+        android:text="red"/>
+
+    <TextView
+        android:layout_height="74dp"
+        android:layout_width="match_parent"
+        android:id="@+id/txtorange"
+        android:background="@color/orange"
+        android:text="orange"/>
+
+    <TextView
+        android:layout_height="74dp"
+        android:layout_width="match_parent"
+        android:id="@+id/txtyellow"
+        android:background="@color/yellow"
+        android:text="yellow"/>
+
+    <TextView
+        android:layout_height="74dp"
+        android:layout_width="match_parent"
+        android:id="@+id/txtgreen"
+        android:background="@color/green"
+        android:text="green"/>
+
+    <TextView
+        android:layout_height="74dp"
+        android:layout_width="match_parent"
+        android:id="@+id/txtblue"
+        android:background="@color/blue"
+        android:text="blue"/>
+
+    <TextView
+        android:layout_height="74dp"
+        android:layout_width="match_parent"
+        android:id="@+id/textindigo"
+        android:background="@color/indigo"
+        android:text="indigo"/>
+
+    <TextView
+        android:layout_height="74dp"
+        android:layout_width="match_parent"
+        android:id="@+id/textviolet"
+        android:background="@color/violet"
+        android:text="violet"/>
+
+</LinearLayout>
